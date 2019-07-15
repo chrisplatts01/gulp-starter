@@ -1,0 +1,12 @@
+{
+  "name": "gulp-starter",
+  "version": "1.0.0",
+  "description": "Starter website using Gulp",
+  "main": "index.js",
+  "repository": "git@github.com:chrisplatts01/gulp-starter.git",
+  "author": "Chris Platts <chris@virelai.co.uk>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
